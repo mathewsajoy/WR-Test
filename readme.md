@@ -1,6 +1,6 @@
-#About test
-Framework : Laravel
-Database : Mysql
+#About test </br>
+Framework : Laravel </br>
+Database : Mysql </br>
 
 #Steps to Configure the application
 1.Clone the project
